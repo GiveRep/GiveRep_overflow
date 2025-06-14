@@ -6,7 +6,7 @@ This repo contains the codebase for the current version of GiveRep, omitting som
 
 #### [[Link to full repo with all commit history (permission required)]](https://github.com/3mate/GiveRep-v1)
 
-Please [DM Eason your GitHub username at Telegram](https://t.me/EasonC13) if you need access to GiveRep's full repo for Sui Overflow judging purposes.
+For Sui Overflow Judge, please [DM Eason your GitHub username at Telegram](https://t.me/EasonC13) if you need access to GiveRep's full repo for Sui Overflow judging purposes.
 
 
 
