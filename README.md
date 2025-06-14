@@ -6,7 +6,7 @@ This repo contains the codebase for the current version of GiveRep, omitting som
 
 #### [[Link to full repo with all commit history (permission required)]](https://github.com/3mate/GiveRep-v1)
 
-Please [DM Eason your GitHub username at Telegram](https://t.me/EasonC13) if you need access to GiveRep's full repo for Sui Overflow judging purposes.
+For Sui Overflow Judge, please [DM Eason your GitHub username at Telegram](https://t.me/EasonC13) if you need access to GiveRep's full repo for Sui Overflow judging purposes.
 
 
 
@@ -23,7 +23,7 @@ GiveRep is a social reputation and rewards platform that gamifies positive socia
 
 [[link to reputation system]](https://giverep.com/reputation-leaderboard?page=1&timeRange=7_days)
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/d391b753-f0e9-47c5-9791-0471bbf011cf" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d391b753-f0e9-47c5-9791-0471bbf011cf" />
 
 - Earn reputation points by recognizing others through @GiveRep mentions in comments
 - Build a verifiable track record of positive social interactions
@@ -33,7 +33,7 @@ GiveRep is a social reputation and rewards platform that gamifies positive socia
 
 [[link to loyalty programs]](https://giverep.com/loyalty)
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/7c885497-cc30-4800-96ce-54809b3c02d3" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/7c885497-cc30-4800-96ce-54809b3c02d3" />
 
 - Communities can launch custom loyalty programs
 - Reward engaged members with points or monetary incentives (Sui, USDC, Bucket USD, SCA, .etc.)
@@ -45,10 +45,12 @@ GiveRep is a social reputation and rewards platform that gamifies positive socia
 
 ### 📈 Mindshare Analytics
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/58d50718-bbc4-43a2-a4cf-e7bb3144ca19" />
+[[link to Sui Ecosystem mindshare]](https://giverep.com/mindshare-dashboard)
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/58d50718-bbc4-43a2-a4cf-e7bb3144ca19" />
 
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/e5793c96-ff00-40f6-a2ac-c44e82b6611a" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e5793c96-ff00-40f6-a2ac-c44e82b6611a" />
 
 - Monitor social buzz around projects and topics for Sui Network
 - Track trending conversations and influential voices
@@ -57,13 +59,16 @@ GiveRep is a social reputation and rewards platform that gamifies positive socia
 
 ### 🎨 NFT Mindshare Integration
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/a4dea901-3bed-4503-8789-d89738c22fbe" />
+[[link to Sui Ecosystem NFT mindshare]](https://giverep.com/mindshare-dashboard?tab=nft-collections)
+
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a4dea901-3bed-4503-8789-d89738c22fbe" />
 
 
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/03eb7262-ab28-4e51-ad5e-4fe6ca9a8277" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/03eb7262-ab28-4e51-ad5e-4fe6ca9a8277" />
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/afa99137-4e0c-41ba-b227-d5ada4087cf4" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/afa99137-4e0c-41ba-b227-d5ada4087cf4" />
 
 
 - Track Sui's NFT collection mindshare and community engagement on X
