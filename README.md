@@ -45,6 +45,8 @@ GiveRep is a social reputation and rewards platform that gamifies positive socia
 
 ### 📈 Mindshare Analytics
 
+[[link to Sui Ecosystem mindshare]](https://giverep.com/mindshare-dashboard)
+
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/58d50718-bbc4-43a2-a4cf-e7bb3144ca19" />
 
 
@@ -56,6 +58,9 @@ GiveRep is a social reputation and rewards platform that gamifies positive socia
 - Discover top-performing content in different categories
 
 ### 🎨 NFT Mindshare Integration
+
+[[link to Sui Ecosystem NFT mindshare]](https://giverep.com/mindshare-dashboard?tab=nft-collections)
+
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a4dea901-3bed-4503-8789-d89738c22fbe" />
 
