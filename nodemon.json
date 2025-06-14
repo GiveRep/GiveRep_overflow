@@ -1,0 +1,34 @@
+{
+  "watch": [
+    "server/**/*.ts",
+    "db/**/*.ts"
+  ],
+  "ignore": [
+    "node_modules/**",
+    "dist/**",
+    "migrations/**",
+    "scripts/**",
+    "scraper_scripts/**",
+    "client/**",
+    ".git/**",
+    "*.log",
+    "*.md",
+    ".env*",
+    "*.test.ts",
+    "**/__tests__/**"
+  ],
+  "ext": "ts,js,json",
+  "exec": "tsx server/index.ts",
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "delay": 500,
+  "restartable": "rs",
+  "verbose": true,
+  "signal": "SIGTERM",
+  "legacyWatch": true,
+  "events": {
+    "restart": "echo 'App restarted due to file changes'",
+    "crash": "echo 'App crashed! Waiting for file changes before restart...'"
+  }
+}

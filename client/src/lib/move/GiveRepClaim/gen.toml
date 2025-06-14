@@ -1,0 +1,7 @@
+[config]
+# will be set to mainnet by default if omitted
+rpc = "https://fullnode.mainnet.sui.io:443"
+
+[packages]
+# based on source code (syntax same as in Move.toml):
+giverep_claim = { id = "0xb1309b1547968f2256e77dcd4b43a9f0d3aa1b0af5cad460432581f439e33c60" }

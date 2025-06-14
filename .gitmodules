@@ -1,0 +1,3 @@
+[submodule "contract"]
+	path = contract
+	url = git@github.com:GiveRep/giverep_claim.git
