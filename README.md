@@ -11,11 +11,11 @@ Please [DM Eason at Telegram](https://t.me/EasonC13) if you need access to GiveR
 
 
 
-GiveRep is a decentralized social reputation and rewards platform that gamifies positive social interactions on X (Twitter) while providing analytics and insights for communities built on the Sui blockchain.
+
 
 ## 🚀 Overview
 
-GiveRep transforms social media engagement into verifiable reputation and rewards. By integrating with Twitter and blockchain technology, we create a trust layer that recognizes and incentivizes meaningful contributions to online communities.
+GiveRep is a social reputation and rewards platform that gamifies positive social interactions on X (Twitter) while providing analytics and insights for communities built on the Sui network. By integrating with X (Twitter), AI, and blockchain technology, we create a platform that recognizes and incentivizes meaningful contributions to the Sui ecosystem project online communities.
 
 ## ✨ Key Features
 
@@ -28,7 +28,6 @@ GiveRep transforms social media engagement into verifiable reputation and reward
 - Earn reputation points by recognizing others through @GiveRep mentions in comments
 - Build a verifiable track record of positive social interactions
 - View detailed reputation analytics and leaderboards
-- Create trusted social circles within your network
 
 ### 🎁 Loyalty Programs
 
@@ -70,7 +69,6 @@ GiveRep transforms social media engagement into verifiable reputation and reward
 - Track Sui's NFT collection mindshare and community engagement on X
 - Verify profile NFTs and digital assets
 - Access analytics for NFT projects and collections
-- Connect blockchain wallets for seamless integration
 
 ### 🌍 Global Accessibility
 
