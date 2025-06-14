@@ -8,6 +8,7 @@ Please [DM Eason at Telegram](https://t.me/EasonC13) if you need access to GiveR
 
 # GiveRep - Social Reputation & Rewards Platform
 
+
 GiveRep is a decentralized social reputation and rewards platform that gamifies positive social interactions on Twitter while providing analytics and insights for communities built on the Sui blockchain.
 
 ## 🚀 Overview
@@ -18,28 +19,53 @@ GiveRep transforms social media engagement into verifiable reputation and reward
 
 ### 📊 Reputation System
 
-- Earn reputation points by recognizing others through @giverep mentions
+[[link to reputation system]](https://giverep.com/reputation-leaderboard?page=1&timeRange=7_days)
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d391b753-f0e9-47c5-9791-0471bbf011cf" />
+
+- Earn reputation points by recognizing others through @GiveRep mentions in comments
 - Build a verifiable track record of positive social interactions
 - View detailed reputation analytics and leaderboards
 - Create trusted social circles within your network
 
 ### 🎁 Loyalty Programs
 
+[[link to loyalty programs]](https://giverep.com/loyalty)
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7c885497-cc30-4800-96ce-54809b3c02d3" />
+
 - Communities can launch custom loyalty programs
-- Reward engaged members with points or monetary incentives (USDC)
-- Track member contributions including tweets, engagement, and reach
-- Access creator scores to identify quality content producers
+- Reward engaged members with points or monetary incentives (Sui, USDC, Bucket USD, SCA, .etc.)
+- 30+ Sui projects participated
+- $20,000+ USD volume paid from projects to creators in May 2025.
+- 200,000+ unique participants
+- Track member contributions, including tweets, engagement, and reach
+- Access creator scores and trusted followers to identify quality content producers
 
 ### 📈 Mindshare Analytics
 
-- Monitor social buzz around projects and topics
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/58d50718-bbc4-43a2-a4cf-e7bb3144ca19" />
+
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e5793c96-ff00-40f6-a2ac-c44e82b6611a" />
+
+- Monitor social buzz around projects and topics for Sui Network
 - Track trending conversations and influential voices
 - Analyze which projects are gaining social momentum
-- Discover top-performing content in your niche
+- Discover top-performing content in different categories
 
-### 🎨 NFT Integration
+### 🎨 NFT Mindshare Integration
 
-- Track NFT collection mindshare and community engagement
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a4dea901-3bed-4503-8789-d89738c22fbe" />
+
+
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/03eb7262-ab28-4e51-ad5e-4fe6ca9a8277" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/afa99137-4e0c-41ba-b227-d5ada4087cf4" />
+
+
+- Track Sui's NFT collection mindshare and community engagement on X
 - Verify profile NFTs and digital assets
 - Access analytics for NFT projects and collections
 - Connect blockchain wallets for seamless integration
