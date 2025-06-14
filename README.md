@@ -1,6 +1,6 @@
 # GiveRep - Social Reputation & Rewards Platform
 
-This repo contains the codebase for the public part of GiveRep.
+This repo contains the codebase for the current version of GiveRep.
 
 #### [[Link to smart contract(open-sourced)]](https://github.com/GiveRep/giverep_claim)
 
