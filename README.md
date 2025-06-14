@@ -2,7 +2,7 @@
 
 This repo contains the codebase for the public part of GiveRep.
 
-#### [[Link to smart contract for loyalty program (open-sourced and community audited)]](https://github.com/GiveRep/giverep_claim)
+#### [[Link to smart contract(open-sourced)]](https://github.com/GiveRep/giverep_claim)
 
 #### [[Link to full repo with all commit history (permission required)]](https://github.com/3mate/GiveRep-v1)
 
