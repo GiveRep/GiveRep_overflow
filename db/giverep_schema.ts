@@ -35,11 +35,6 @@ export const giverepUsers = pgTable("giverep_users", {
   content_quality_originality: real("content_quality_originality"),
   content_quality_engagement: real("content_quality_engagement"),
   content_quality_educational: real("content_quality_educational"),
-  // LunarCrush API data
-  lunarcrush_rank: text("lunarcrush_rank"),
-  lunarcrush_interactions: integer("lunarcrush_interactions"),
-  lunarcrush_last_updated: timestamp("lunarcrush_last_updated"),
-  lunarcrush_data: jsonb("lunarcrush_data"),
   // Trading data from InsideX API
   pnl: real("pnl"),
   trading_pnl: real("trading_pnl"),

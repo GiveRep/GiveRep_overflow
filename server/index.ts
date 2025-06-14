@@ -316,9 +316,6 @@ let isServerInitialized = false;
   // // Start XPump tweet processing scheduler
   // startXPumpScheduler(); // Processes any unanalyzed tweets at regular intervals
 
-  // // Start LunarCrush data updater scheduler
-  // initLunarCrushScheduler(); // Updates user rankings from LunarCrush API
-
   // Only run schedulers in production on the first worker (worker.id === 1)
   // This prevents duplicate cron jobs and schedulers in multi-instance deployments
   // Note: cluster.worker.id starts from 1, not 0

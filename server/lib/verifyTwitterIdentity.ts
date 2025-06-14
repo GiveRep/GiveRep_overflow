@@ -1,7 +1,7 @@
 // server/lib/verifyTwitterIdentity.ts
 import { Request, Response, Router, NextFunction } from "express";
 import { TwitterApi, TwitterApiTokens, UserV2Result } from "twitter-api-v2";
-import { getCachedValue, setCachedValue } from "./utils/cache";
+import { getCachedValue, setCachedValue } from "../utils/cache";
 import crypto from "crypto";
 
 // Duration for caching successful verifications (2 days in minutes)

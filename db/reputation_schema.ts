@@ -183,7 +183,7 @@ export const repPoints = pgTable(
 // DEPRECATED: Daily reputation points quota table
 // ⚠️ This table is DEPRECATED and kept only for backward compatibility.
 // Use rep_users.daily_quota, rep_users.points_used, rep_users.multiplier instead.
-// TODO: Remove this table after migration is complete and all references are updated.
+// OMITTED: Remove this table after migration is complete and all references are updated.
 export const repQuota = pgTable(
   "rep_quota",
   {

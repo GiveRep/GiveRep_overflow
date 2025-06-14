@@ -26,7 +26,7 @@ import { getUserEngagementRank, getRankedUsers, updateAllEngagementScores } from
 // import { triggerImmediateTradingDataUpdate } from "../services/insidex-scheduler"; // Removed in public version
 import { getUserMetrics, queueUserMetricsRefresh } from "../services/user-metrics-aggregator";
 import dotenv from "dotenv";
-import { verifyTwitterIdentity } from "server/lib/verifyTwitterIdentity";
+import { verifyTwitterIdentity } from "../verifyTwitterIdentity";
 import { getOrComputeData, clearCacheByPrefix } from "../utils/apiCache";
 import { isAdmin } from "../middleware/auth";
 import { getRedisValue, setRedisValue, removeRedisValue } from "../utils/redisCache";
