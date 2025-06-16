@@ -75,6 +75,17 @@ GiveRep is a social reputation and rewards platform that gamifies positive socia
 - Verify profile NFTs and digital assets
 - Access analytics for NFT projects and collections
 
+### 📃 Questing
+A 
+Loyalty Program that requires participants to trade on Cetus and tracks PNL.
+
+More collaboration coming soon.
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bca9eba3-6157-40bf-96c3-7e6649955ab5" />
+
+<img width="639" alt="image" src="https://github.com/user-attachments/assets/2e8ea1aa-60e3-48fb-b4a6-ec54af4e40c5" />
+
+
 ### 🌍 Global Accessibility
 
 - Available in 26 languages
